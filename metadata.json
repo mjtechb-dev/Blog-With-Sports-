@@ -1,0 +1,6 @@
+{
+  "name": "Blog With Sports (BWS)",
+  "description": "Modern, clean, and lightweight international sports news, editorial analysis, and long-form journalism.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
